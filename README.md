@@ -2,7 +2,7 @@
 Book Search API
 
 
-## User Story
+## User Story:
 
 AS AN avid reader
 
@@ -11,7 +11,7 @@ I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 GIVEN a book search engine
 
@@ -71,7 +71,7 @@ WHEN I click on the Logout button
 
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
-## Mock-Up
+## Mock-Up:
 
 Let's start by revisiting the web application's appearance and functionality.
 
@@ -83,4 +83,7 @@ A user can view their saved books on a separate page, as shown in the following 
 
 ![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](18-mern-homework-demo-02.gif)
 
+## Links:
+
+https://github.com/argadeps/Book-Search
 
